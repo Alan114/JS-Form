@@ -1,0 +1,19 @@
+form {
+    max-width: 28rem;
+    margin: 3rem auto;
+    padding: 2rem;
+}
+
+input {
+    margin: 1rem 0;
+}
+
+.success {
+    color: green;
+    font-size: 1.2rem;
+}
+
+.error {
+    color: red;
+    font-size: 1.2rem;
+}
